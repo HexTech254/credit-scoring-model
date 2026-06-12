@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch the demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
+[Download the demo video](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
 
 
 ## Overview
