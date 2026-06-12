@@ -101,3 +101,6 @@ Identifies customers younger than 25.
 
 ```python
 young_customer = age < 25
+
+<video src="https://githubusercontent.com" controls="controls" style="max-width: 100%;">
+</video>
