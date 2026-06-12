@@ -1,2 +1,2 @@
-#Credit scoring model#
+**Credit scoring model**
 Predict borrower default risk.
