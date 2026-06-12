@@ -4,6 +4,7 @@
 
 [Watch the demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
 
+
 ## Overview
 
 This project builds an end-to-end machine learning system for credit risk prediction using the German Credit Dataset. The objective is to predict whether a loan applicant is likely to become a risky customer and assist lending institutions in making informed credit decisions.
