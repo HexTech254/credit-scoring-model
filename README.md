@@ -102,4 +102,6 @@ Identifies customers younger than 25.
 ```python
 young_customer = age < 25
 
-[![Credit Scoring Model Demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/demo-thumbnail.png)](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
+## Demo Video
+
+[Watch the demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
