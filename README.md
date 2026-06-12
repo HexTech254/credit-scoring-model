@@ -1,8 +1,8 @@
 # Credit Risk Scoring System
 
-### Demo Video
+## Demo Video
 
-[![Credit Scoring Model Demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/demo-thumbnail.png)](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
+[Watch the demo](https://raw.githubusercontent.com/HexTech254/credit-scoring-model/main/credit_scoring.mp4)
 
 ## Overview
 
