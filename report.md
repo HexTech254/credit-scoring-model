@@ -133,7 +133,7 @@ The final system can be integrated into lending workflows to support data-driven
 
 That's where the real business value lies.
 
-Based on your EDA, feature engineering, and coefficient analysis, the dataset suggests several insights.
+Based on our EDA, feature engineering, and coefficient analysis, the dataset suggests several insights.
 
 # i. Credit Risk Is Not Random
 
@@ -145,7 +145,7 @@ In other words, risky borrowers are not randomly distributed throughout the popu
 
 # ii. Loan Duration Is an Important Risk Factor
 
-During EDA, you found:
+During EDA, we found:
 
 Longer duration → Higher risk
 
@@ -194,7 +194,7 @@ This is one reason modern credit bureaus exist.
 
 # v. Age Influences Risk
 
-Your engineered feature:
+Our engineered feature:
 
 - age_band
 
