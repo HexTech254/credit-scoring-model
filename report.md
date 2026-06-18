@@ -135,17 +135,15 @@ That's where the real business value lies.
 
 Based on your EDA, feature engineering, and coefficient analysis, the dataset suggests several insights.
 
-# 1. Credit Risk Is Not Random
+# i. Credit Risk Is Not Random
 
 The model achieved a ROC-AUC of approximately 0.80.
 
-This means:
-
-Customer characteristics contain meaningful information about future credit risk.
+This means, customer characteristics contain meaningful information about future credit risk.
 
 In other words, risky borrowers are not randomly distributed throughout the population.
 
-# 2. Loan Duration Is an Important Risk Factor
+# ii. Loan Duration Is an Important Risk Factor
 
 During EDA, you found:
 
@@ -164,13 +162,11 @@ Examples:
 - Economic downturns
 - Family obligations
 
-# 3. Credit Burden Matters More Than Loan Size Alone
+# iii. Credit Burden Matters More Than Loan Size Alone
 
 A large loan is not automatically risky.
 
-What matters is:
-
-Can the borrower comfortably service the debt?
+What matters is, can the borrower comfortably service the debt?
 
 That's why engineered features such as:
 
@@ -184,11 +180,9 @@ helped improve performance.
 
 Risk is driven by repayment pressure rather than loan amount alone.
 
-# 4. Credit History Is Extremely Valuable
+# iv. Credit History Is Extremely Valuable
 
-From your coefficient analysis:
-
-critical account / other credits elsewhere was among the strongest predictors.
+From the model's coefficient analysis, critical account / other credits elsewhere was among the strongest predictors.
 
 This is consistent with real-world lending.
 
@@ -198,7 +192,7 @@ Past financial behavior is one of the best predictors of future financial behavi
 
 This is one reason modern credit bureaus exist.
 
-# 5. Age Influences Risk
+# v. Age Influences Risk
 
 Your engineered feature:
 
@@ -206,9 +200,7 @@ Your engineered feature:
 
 - improved the model.
 
-This suggests:
-
-Different age groups exhibit different borrowing patterns.
+This suggests, different age groups exhibit different borrowing patterns.
 
 Possible explanations:
 
@@ -216,11 +208,9 @@ Possible explanations:
 - Middle-aged borrowers often have more stable income.
 - Older borrowers may have different risk characteristics.
 
-The important point is:
+The important point is, risk varies across demographic segments.
 
-Risk varies across demographic segments.
-
-# 6. Feature Engineering Added Real Value
+# vi. Feature Engineering Added Real Value
 
 One of the biggest lessons from this project.
 
@@ -232,13 +222,11 @@ With engineered features:
 
 ROC-AUC ≈ 0.80
 
-This tells us:
-
-Domain knowledge can improve a model more than switching algorithms.
+This tells us, domain knowledge can improve a model more than switching algorithms.
 
 This is a key lesson in machine learning.
 
-# 7. Simple Models Can Compete With Complex Models
+# vii. Simple Models Can Compete With Complex Models
 
 The model compared:
 
@@ -258,7 +246,7 @@ For regulated industries like banking, this is important because:
 - Regulators can understand it.
 - Decisions can be justified.
 
-# 8. Not All Customers Should Be Treated the Same
+# viii. Not All Customers Should Be Treated the Same
 
 The model effectively segments customers into different risk profiles.
 
